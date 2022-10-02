@@ -1,2 +1,2 @@
 # latihanDasarPemrograman
-Nama; Muhammad Sholehuddin Al-Ayyubi
+Muhammad Sholehuddin Al-Ayyubi, 20220040119, ti22j, teknik informatika
